@@ -1,6 +1,7 @@
 **Bussiness Objectives**
 
 This project aims to analyze e-commerce performance using Google Analytics data. 
+
 Key business questions:
 1. How does revenue trend over time?
 2. Which traffic sources generate the highest revenue?
